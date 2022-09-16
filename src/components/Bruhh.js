@@ -8,6 +8,6 @@ export default function Bruhh() {
     }   
     return (
 
-    <button onClick={start}>BRUHHHH</button>
+    <button onClick={start} style={{height: '40vh',width:'50vw',borderRadius:'2000px', backgroundColor:'red'}}><div style={{fontSize:'15vh'}}>BRUHHHH</div></button>
   )
 }
